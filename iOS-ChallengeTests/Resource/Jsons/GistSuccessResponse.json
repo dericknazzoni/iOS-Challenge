@@ -1,0 +1,49 @@
+[
+    {
+        "url": "https://api.github.com/gists/35dd13000b31453cdd6d564794809802",
+        "forks_url": "https://api.github.com/gists/35dd13000b31453cdd6d564794809802/forks",
+        "commits_url": "https://api.github.com/gists/35dd13000b31453cdd6d564794809802/commits",
+        "id": "35dd13000b31453cdd6d564794809802",
+        "node_id": "MDQ6R2lzdDM1ZGQxMzAwMGIzMTQ1M2NkZDZkNTY0Nzk0ODA5ODAy",
+        "git_pull_url": "https://gist.github.com/35dd13000b31453cdd6d564794809802.git",
+        "git_push_url": "https://gist.github.com/35dd13000b31453cdd6d564794809802.git",
+        "html_url": "https://gist.github.com/35dd13000b31453cdd6d564794809802",
+        "files": {
+          "Anuj_CLI_Drills_II": {
+            "filename": "Anuj_CLI_Drills_II",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/anujdeep/35dd13000b31453cdd6d564794809802/raw/7f4a55fd845f5f546564502b82de6eb8c9b8fe65/Anuj_CLI_Drills_II",
+            "size": 937
+          }
+        },
+        "public": true,
+        "created_at": "2020-11-02T18:39:35Z",
+        "updated_at": "2020-11-02T18:39:36Z",
+        "description": "Anuj_CLI_Drills_II",
+        "comments": 0,
+        "user": null,
+        "comments_url": "https://api.github.com/gists/35dd13000b31453cdd6d564794809802/comments",
+        "owner": {
+          "login": "anujdeep",
+          "id": 36504458,
+          "node_id": "MDQ6VXNlcjM2NTA0NDU4",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/36504458?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/anujdeep",
+          "html_url": "https://github.com/anujdeep",
+          "followers_url": "https://api.github.com/users/anujdeep/followers",
+          "following_url": "https://api.github.com/users/anujdeep/following{/other_user}",
+          "gists_url": "https://api.github.com/users/anujdeep/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/anujdeep/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/anujdeep/subscriptions",
+          "organizations_url": "https://api.github.com/users/anujdeep/orgs",
+          "repos_url": "https://api.github.com/users/anujdeep/repos",
+          "events_url": "https://api.github.com/users/anujdeep/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/anujdeep/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "truncated": false
+      }
+]
